@@ -1,0 +1,17 @@
+apt install git -y
+git clone https://github.com/Euronymou5/Doxxer-Toolkit
+cd Doxxer-Toolkit
+# Instalacion automatica
+
+Termux: bash install.sh
+
+Linux (Debian): sudo bash install.sh
+
+Black Arch Linux: sudo bash install_arch.sh
+# Comando para iniciar la herramienta:
+
+Version en español
+python3 dox.py
+
+Version en ingles
+python3 dox_en.py
